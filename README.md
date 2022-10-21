@@ -1,4 +1,4 @@
-# Projeto Escola 🏫
+# School Admin 🏫
 
 ![bg](https://user-images.githubusercontent.com/63371945/106369494-b5867500-6330-11eb-9138-31f09199c581.png)
 
